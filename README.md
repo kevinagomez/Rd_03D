@@ -60,6 +60,6 @@ If your RD-03D packet structure differs:
 
 ## Notes
 
-- The display renders a polar radar grid with configurable FOV and maximum range.
+- The display renders a cartesian radar grid with configurable FOV and maximum range.
 - Detections are drawn as points with a velocity vector overlay.
 - The HUD shows packet counts and parse errors for debugging.
